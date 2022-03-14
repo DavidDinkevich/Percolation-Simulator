@@ -12,7 +12,7 @@ The user can control a 3-dimensional block that is composed of "open" (white blo
 
 Main Window             |  Percolation Example
 :-------------------------:|:-------------------------:
-<img src="https://github.com/DavidDinkevich/Percolation-Simulator/blob/master/About/Screenshot5.png" width="1024"/> <img src="https://github.com/DavidDinkevich/Percolation-Simulator/blob/master/About/Screenshot2.png" width="400"/> |  ![Percolation Animation](https://github.com/DavidDinkevich/Percolation-Simulator/blob/master/About/general-movement.gif) ![Percolation Animation](https://github.com/DavidDinkevich/Percolation-Simulator/blob/master/About/zoomed-out-percolation.gif) 
+<img src="https://github.com/DavidDinkevich/Percolation-Simulator/blob/master/About/Screenshot1.png" width="700"/> <img src="https://github.com/DavidDinkevich/Percolation-Simulator/blob/master/About/Screenshot5.png" width="350"/> |  ![Percolation Animation](https://github.com/DavidDinkevich/Percolation-Simulator/blob/master/About/general-movement.gif) ![Percolation Animation](https://github.com/DavidDinkevich/Percolation-Simulator/blob/master/About/zoomed-out-percolation.gif) 
   
 After generating the block, the user can play an animation of the water percolating through it. In addition, the user can take apart the layers of the block to see the percolation inside.
 
